@@ -128,8 +128,9 @@ hydra -l secureuser -P rockyou.txt ssh://<target-ip>
 
 ### Screenshots
 
-![Hydra Attack](screenshots/day2/hydra.png)
-![Log Evidence](screenshots/day2/log-analysis.png)
+![Hydra Brute Force Attack](screenshots/day2/hydra-attack.png)
+
+![Failed Login Attempts in Logs](screenshots/day2/failed-logins.png)
 
 --------------------------------------------------
 
