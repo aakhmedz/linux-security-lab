@@ -47,7 +47,7 @@ Expected result:
 
 Example output:
 
-![Fail2Ban Banned IP Confirmation](../screenshots/day5/fail2ban-status.png)
+![Fail2Ban Banned IP Confirmation](../screenshots/day3/fail2ban-status.png)
 
 ---
 
